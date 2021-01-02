@@ -1,0 +1,21 @@
+.login-card{
+    position: relative;
+    left: 35%;  
+    top:20%;
+    width: 470px;
+    height: 400px;
+}
+.ant-card-body .login-form{
+    position: relative;
+    top: 30px;
+}
+
+.login-card .login-form-forgot {
+float: right;
+}
+.login-card .ant-col-rtl .login-form-forgot {
+float: left;
+}
+.login-card .login-form-button {
+width: 100%;
+}
